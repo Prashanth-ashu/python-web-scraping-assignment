@@ -1,0 +1,198 @@
+2026-10-06 13:30:53,939 | INFO | ========================================
+2026-10-06 13:30:53,940 | INFO | Starting web scraping ETL pipeline
+2026-10-06 13:30:53,940 | INFO | ========================================
+2026-10-06 13:30:53,940 | INFO | Starting Books to Scrape...
+2026-10-06 13:31:12,532 | INFO | Books scraped: 1000
+2026-10-06 13:31:12,532 | INFO | Starting Quotes to Scrape...
+2026-10-06 13:31:16,893 | INFO | Quotes scraped: 100
+2026-10-06 13:31:16,893 | INFO | Total raw records: 1100
+2026-10-06 13:31:16,894 | INFO | Cleaning records...
+2026-10-06 13:31:16,898 | INFO | Records after cleaning: 1100
+2026-10-06 13:31:16,899 | INFO | Validating records...
+2026-10-06 13:31:16,903 | INFO | Valid records: 1100
+2026-10-06 13:31:16,905 | INFO | Rejected records: 0
+2026-10-06 13:31:16,905 | INFO | Checking for duplicates...
+2026-10-06 13:31:16,912 | INFO | Duplicate records: 1
+2026-10-06 13:31:16,912 | INFO | Final unique records: 1099
+2026-10-06 13:31:16,917 | INFO | CSV saved: D:\scraping_assignment\output\final_dataset.csv
+2026-10-06 13:31:16,918 | INFO | Summary saved: D:\scraping_assignment\output\summary_report.json
+2026-10-06 13:31:16,918 | INFO | ========================================
+2026-10-06 13:31:16,918 | INFO | ETL pipeline completed successfully
+2026-10-06 13:31:16,918 | INFO | Execution time: 22.98 seconds
+2026-10-06 13:31:16,918 | INFO | ========================================
+2026-10-06 13:42:20,610 | INFO | ========================================
+2026-10-06 13:42:20,610 | INFO | Starting web scraping ETL pipeline
+2026-10-06 13:42:20,610 | INFO | ========================================
+2026-10-06 13:42:20,611 | INFO | Starting Books to Scrape...
+2026-10-06 13:42:39,769 | INFO | Books scraped: 1000
+2026-10-06 13:42:39,769 | INFO | Starting Quotes to Scrape...
+2026-10-06 13:42:44,169 | INFO | Quotes scraped: 100
+2026-10-06 13:42:44,170 | INFO | Total raw records: 1100
+2026-10-06 13:42:44,170 | INFO | Cleaning records...
+2026-10-06 13:42:44,176 | INFO | Records after cleaning: 1100
+2026-10-06 13:42:44,176 | INFO | Validating records...
+2026-10-06 13:42:44,181 | INFO | Valid records: 1100
+2026-10-06 13:42:44,181 | INFO | Rejected records: 0
+2026-10-06 13:42:44,181 | INFO | Checking for duplicates...
+2026-10-06 13:42:44,189 | INFO | Duplicate records: 1
+2026-10-06 13:42:44,189 | INFO | Final unique records: 1099
+2026-10-06 13:42:44,198 | INFO | CSV saved: D:\scraping_assignment\output\final_dataset.csv
+2026-10-06 13:42:44,199 | INFO | Summary saved: D:\scraping_assignment\output\summary_report.json
+2026-10-06 13:42:44,200 | INFO | ========================================
+2026-10-06 13:42:44,200 | INFO | ETL pipeline completed successfully
+2026-10-06 13:42:44,201 | INFO | Execution time: 23.59 seconds
+2026-10-06 13:42:44,201 | INFO | ========================================
+2026-10-06 13:44:26,279 | INFO | ========================================
+2026-10-06 13:44:26,280 | INFO | Starting web scraping ETL pipeline
+2026-10-06 13:44:26,280 | INFO | ========================================
+2026-10-06 13:44:26,280 | INFO | Starting Books to Scrape...
+2026-10-06 13:44:45,368 | INFO | Books scraped: 1000
+2026-10-06 13:44:45,369 | INFO | Starting Quotes to Scrape...
+2026-10-06 13:44:49,783 | INFO | Quotes scraped: 100
+2026-10-06 13:44:49,783 | INFO | Total raw records: 1100
+2026-10-06 13:44:49,783 | INFO | Cleaning records...
+2026-10-06 13:44:49,789 | INFO | Records after cleaning: 1100
+2026-10-06 13:44:49,790 | INFO | Validating records...
+2026-10-06 13:44:49,794 | INFO | Valid records: 1100
+2026-10-06 13:44:49,794 | INFO | Rejected records: 0
+2026-10-06 13:44:49,794 | INFO | Checking for duplicates...
+2026-10-06 13:44:49,802 | INFO | Duplicate records: 1
+2026-10-06 13:44:49,802 | INFO | Final unique records: 1099
+2026-10-06 13:44:49,808 | INFO | CSV saved: D:\scraping_assignment\output\final_dataset.csv
+2026-10-06 13:44:49,808 | INFO | Summary saved: D:\scraping_assignment\output\summary_report.json
+2026-10-06 13:44:49,809 | INFO | ========================================
+2026-10-06 13:44:49,809 | INFO | ETL pipeline completed successfully
+2026-10-06 13:44:49,809 | INFO | Execution time: 23.53 seconds
+2026-10-06 13:44:49,810 | INFO | ========================================
+2026-10-06 13:47:26,994 | INFO | ========================================
+2026-10-06 13:47:26,995 | INFO | Starting web scraping ETL pipeline
+2026-10-06 13:47:26,995 | INFO | ========================================
+2026-10-06 13:47:26,995 | INFO | Starting Books to Scrape...
+2026-10-06 13:47:46,312 | INFO | Books scraped: 1000
+2026-10-06 13:47:46,312 | INFO | Starting Quotes to Scrape...
+2026-10-06 13:47:50,693 | INFO | Quotes scraped: 100
+2026-10-06 13:47:50,693 | INFO | Total raw records: 1100
+2026-10-06 13:47:50,693 | INFO | Cleaning records...
+2026-10-06 13:47:50,698 | INFO | Records after cleaning: 1100
+2026-10-06 13:47:50,699 | INFO | Validating records...
+2026-10-06 13:47:50,702 | INFO | Valid records: 1100
+2026-10-06 13:47:50,702 | INFO | Rejected records: 0
+2026-10-06 13:47:50,702 | INFO | Checking for duplicates...
+2026-10-06 13:47:50,709 | INFO | Duplicate records: 1
+2026-10-06 13:47:50,709 | INFO | Final unique records: 1099
+2026-10-06 13:47:50,714 | INFO | CSV saved: D:\scraping_assignment\output\final_dataset.csv
+2026-10-06 13:47:50,715 | INFO | Summary saved: D:\scraping_assignment\output\summary_report.json
+2026-10-06 13:47:50,715 | INFO | ========================================
+2026-10-06 13:47:50,715 | INFO | ETL pipeline completed successfully
+2026-10-06 13:47:50,715 | INFO | Execution time: 23.72 seconds
+2026-10-06 13:47:50,715 | INFO | ========================================
+2026-10-06 13:52:12,099 | INFO | ========================================
+2026-10-06 13:52:12,100 | INFO | Starting web scraping ETL pipeline
+2026-10-06 13:52:12,100 | INFO | ========================================
+2026-10-06 13:52:12,100 | INFO | Starting Books to Scrape...
+2026-10-06 13:52:30,403 | INFO | Books scraped: 1000
+2026-10-06 13:52:30,404 | INFO | Starting Quotes to Scrape...
+2026-10-06 13:52:34,574 | INFO | Quotes scraped: 100
+2026-10-06 13:52:34,574 | INFO | Total raw records: 1100
+2026-10-06 13:52:34,574 | INFO | Cleaning records...
+2026-10-06 13:52:34,580 | INFO | Records after cleaning: 1100
+2026-10-06 13:52:34,581 | INFO | Validating records...
+2026-10-06 13:52:34,585 | INFO | Valid records: 1100
+2026-10-06 13:52:34,585 | INFO | Rejected records: 0
+2026-10-06 13:52:34,586 | INFO | Checking for duplicates...
+2026-10-06 13:52:34,593 | INFO | Duplicate records: 1
+2026-10-06 13:52:34,593 | INFO | Final unique records: 1099
+2026-10-06 13:52:34,598 | INFO | CSV saved: D:\scraping_assignment\output\final_dataset.csv
+2026-10-06 13:52:34,599 | INFO | Summary saved: D:\scraping_assignment\output\summary_report.json
+2026-10-06 13:52:34,599 | INFO | ========================================
+2026-10-06 13:52:34,599 | INFO | ETL pipeline completed successfully
+2026-10-06 13:52:34,600 | INFO | Execution time: 22.50 seconds
+2026-10-06 13:52:34,600 | INFO | ========================================
+2026-10-06 13:53:32,976 | INFO | ========================================
+2026-10-06 13:53:32,976 | INFO | Starting web scraping ETL pipeline
+2026-10-06 13:53:32,976 | INFO | ========================================
+2026-10-06 13:53:32,976 | INFO | Starting Books to Scrape...
+2026-10-06 13:53:52,121 | INFO | Books scraped: 1000
+2026-10-06 13:53:52,122 | INFO | Starting Quotes to Scrape...
+2026-10-06 13:53:56,382 | INFO | Quotes scraped: 100
+2026-10-06 13:53:56,383 | INFO | Total raw records: 1100
+2026-10-06 13:53:56,383 | INFO | Cleaning records...
+2026-10-06 13:53:56,389 | INFO | Records after cleaning: 1100
+2026-10-06 13:53:56,389 | INFO | Validating records...
+2026-10-06 13:53:56,394 | INFO | Valid records: 1100
+2026-10-06 13:53:56,394 | INFO | Rejected records: 0
+2026-10-06 13:53:56,394 | INFO | Checking for duplicates...
+2026-10-06 13:53:56,401 | INFO | Duplicate records: 1
+2026-10-06 13:53:56,402 | INFO | Final unique records: 1099
+2026-10-06 13:53:56,406 | INFO | CSV saved: D:\scraping_assignment\output\final_dataset.csv
+2026-10-06 13:53:56,407 | INFO | Summary saved: D:\scraping_assignment\output\summary_report.json
+2026-10-06 13:53:56,407 | INFO | ========================================
+2026-10-06 13:53:56,407 | INFO | ETL pipeline completed successfully
+2026-10-06 13:53:56,407 | INFO | Execution time: 23.43 seconds
+2026-10-06 13:53:56,408 | INFO | ========================================
+2026-10-06 14:05:05,787 | INFO | ========================================
+2026-10-06 14:05:05,788 | INFO | Starting web scraping ETL pipeline
+2026-10-06 14:05:05,788 | INFO | ========================================
+2026-10-06 14:05:05,788 | INFO | Starting Books to Scrape...
+2026-10-06 14:05:24,614 | INFO | Books scraped: 1000
+2026-10-06 14:05:24,614 | INFO | Starting Quotes to Scrape...
+2026-10-06 14:05:28,905 | INFO | Quotes scraped: 100
+2026-10-06 14:05:28,906 | INFO | Total raw records: 1100
+2026-10-06 14:05:28,906 | INFO | Cleaning records...
+2026-10-06 14:05:28,911 | INFO | Records after cleaning: 1100
+2026-10-06 14:05:28,911 | INFO | Validating records...
+2026-10-06 14:05:28,919 | INFO | Valid records: 1100
+2026-10-06 14:05:28,919 | INFO | Rejected records: 0
+2026-10-06 14:05:28,919 | INFO | Checking for duplicates...
+2026-10-06 14:05:28,926 | INFO | Duplicate records: 1
+2026-10-06 14:05:28,926 | INFO | Final unique records: 1099
+2026-10-06 14:05:28,934 | INFO | CSV saved: D:\scraping_assignment\output\final_dataset.csv
+2026-10-06 14:05:28,935 | INFO | Summary saved: D:\scraping_assignment\output\summary_report.json
+2026-10-06 14:05:28,937 | INFO | ========================================
+2026-10-06 14:05:28,938 | INFO | ETL pipeline completed successfully
+2026-10-06 14:05:28,938 | INFO | Execution time: 23.15 seconds
+2026-10-06 14:05:28,939 | INFO | ========================================
+2026-10-06 14:06:25,866 | INFO | ========================================
+2026-10-06 14:06:25,866 | INFO | Starting web scraping ETL pipeline
+2026-10-06 14:06:25,867 | INFO | ========================================
+2026-10-06 14:06:25,867 | INFO | Starting Books to Scrape...
+2026-10-06 14:06:44,463 | INFO | Books scraped: 1000
+2026-10-06 14:06:44,464 | INFO | Starting Quotes to Scrape...
+2026-10-06 14:06:48,790 | INFO | Quotes scraped: 100
+2026-10-06 14:06:48,791 | INFO | Total raw records: 1100
+2026-10-06 14:06:48,791 | INFO | Cleaning records...
+2026-10-06 14:06:48,798 | INFO | Records after cleaning: 1100
+2026-10-06 14:06:48,798 | INFO | Validating records...
+2026-10-06 14:06:48,802 | INFO | Valid records: 1100
+2026-10-06 14:06:48,802 | INFO | Rejected records: 0
+2026-10-06 14:06:48,802 | INFO | Checking for duplicates...
+2026-10-06 14:06:48,809 | INFO | Duplicate records: 1
+2026-10-06 14:06:48,810 | INFO | Final unique records: 1099
+2026-10-06 14:06:48,814 | INFO | CSV saved: D:\scraping_assignment\output\final_dataset.csv
+2026-10-06 14:06:48,814 | INFO | Summary saved: D:\scraping_assignment\output\summary_report.json
+2026-10-06 14:06:48,814 | INFO | ========================================
+2026-10-06 14:06:48,815 | INFO | ETL pipeline completed successfully
+2026-10-06 14:06:48,815 | INFO | Execution time: 22.95 seconds
+2026-10-06 14:06:48,815 | INFO | ========================================
+2026-10-06 14:10:54,700 | INFO | ========================================
+2026-10-06 14:10:54,700 | INFO | Starting web scraping ETL pipeline
+2026-10-06 14:10:54,700 | INFO | ========================================
+2026-10-06 14:10:54,701 | INFO | Starting Books to Scrape...
+2026-10-06 14:11:13,197 | INFO | Books scraped: 1000
+2026-10-06 14:11:13,197 | INFO | Starting Quotes to Scrape...
+2026-10-06 14:11:17,413 | INFO | Quotes scraped: 100
+2026-10-06 14:11:17,413 | INFO | Total raw records: 1100
+2026-10-06 14:11:17,413 | INFO | Cleaning records...
+2026-10-06 14:11:17,418 | INFO | Records after cleaning: 1100
+2026-10-06 14:11:17,418 | INFO | Validating records...
+2026-10-06 14:11:17,423 | INFO | Valid records: 1100
+2026-10-06 14:11:17,423 | INFO | Rejected records: 0
+2026-10-06 14:11:17,423 | INFO | Checking for duplicates...
+2026-10-06 14:11:17,431 | INFO | Duplicate records: 1
+2026-10-06 14:11:17,432 | INFO | Final unique records: 1099
+2026-10-06 14:11:17,437 | INFO | CSV saved: D:\scraping_assignment\output\final_dataset.csv
+2026-10-06 14:11:17,438 | INFO | Summary saved: D:\scraping_assignment\output\summary_report.json
+2026-10-06 14:11:17,438 | INFO | ========================================
+2026-10-06 14:11:17,438 | INFO | ETL pipeline completed successfully
+2026-10-06 14:11:17,438 | INFO | Execution time: 22.74 seconds
+2026-10-06 14:11:17,439 | INFO | ========================================

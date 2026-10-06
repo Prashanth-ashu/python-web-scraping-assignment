@@ -1,0 +1,13 @@
+{
+    "execution_timestamp": "2026-10-06T14:11:17.437649",
+    "records_scraped": {
+        "books": 1000,
+        "quotes": 100,
+        "total": 1100
+    },
+    "records_after_cleaning": 1100,
+    "rejected_records": 0,
+    "duplicate_records": 1,
+    "final_unique_records": 1099,
+    "execution_time_seconds": 22.74
+}
